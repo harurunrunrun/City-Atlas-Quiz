@@ -1,0 +1,66 @@
+[
+  {
+    "country": "IN",
+    "id": 1254360,
+    "en": "Tirupati",
+    "field": "native",
+    "before": "తిరుమల",
+    "after": "తిరుపతి",
+    "sourceURL": "https://tirupati.ap.gov.in/te/tourist-place/%E0%B0%B6%E0%B1%8D%E0%B0%B0%E0%B1%80%E0%B0%B5%E0%B0%BE%E0%B0%B0%E0%B0%BF-%E0%B0%86%E0%B0%B2%E0%B0%AF%E0%B0%82/",
+    "corroboratingSourceURL": "https://tirupati.ap.gov.in/",
+    "reason": "The official Tirupati district tourism page distinguishes తిరుపతి (Tirupati) from తిరుమల (Tirumala) and describes the journey from the former to the latter. This city row currently displays the separate hill-town/temple locality rather than Tirupati.",
+    "classification": "definite-city-versus-locality-error",
+    "type": "correction"
+  },
+  {
+    "country": "IN",
+    "id": 1252948,
+    "en": "Warangal",
+    "field": "native",
+    "before": "వరంగల్ జిల్లా",
+    "after": "వరంగల్",
+    "sourceURL": "https://www.telangana.gov.in/news/press-releases/2024/06/cm-attended-greater-warangal-municipal-corporation-gwmc-review-meeting/",
+    "corroboratingSourceURL": "https://warangal.telangana.gov.in/te/",
+    "reason": "The Telangana state government refers to the city as వరంగల్, including వరంగల్ నగరాన్ని in its municipal-corporation review. జిల్లా means district and improperly changes this city label into the district name.",
+    "classification": "definite-city-versus-district-error",
+    "type": "correction"
+  },
+  {
+    "country": "IN",
+    "id": 1266122,
+    "en": "Korba",
+    "field": "native",
+    "before": "कोरबा जिला",
+    "after": "कोरबा",
+    "sourceURL": "https://korba.gov.in/public-utility-category/%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE/",
+    "reason": "The district administration lists the municipal corporation as नगर निगम, कोरबा. जिला means district; the city proper is कोरबा.",
+    "classification": "definite-city-versus-district-error",
+    "type": "correction"
+  },
+  {
+    "country": "IN",
+    "id": 1259385,
+    "en": "Port Blair",
+    "field": "en",
+    "before": "Port Blair",
+    "after": "Sri Vijaya Puram",
+    "sourceURL": "https://www.pbmc.gov.in/",
+    "corroboratingSourceURL": "https://tourism.andamannicobar.gov.in/userpages/admin/docuploads/1762838358_Sri%20Vijaya%20Puram.pdf",
+    "reason": "The current municipal council identifies itself as Sri Vijaya Puram Municipal Council. The official Andaman and Nicobar Tourism city guide expressly records the renaming of Port Blair to Sri Vijaya Puram on 13 September 2024. Preserve Port Blair as a historical/search alias if supported.",
+    "classification": "official-city-renaming",
+    "type": "correction"
+  },
+  {
+    "country": "IN",
+    "id": 1259385,
+    "en": "Port Blair",
+    "field": "native",
+    "before": "पोर्ट ब्लेयर",
+    "after": "श्री विजयपुरम",
+    "sourceURL": "https://www.pbmc.gov.in/",
+    "corroboratingSourceURL": "https://andamannicobar.gov.in/admin-pannel/pressupload/1-129-Notification.pdf",
+    "reason": "Use the current municipal council Hindi form श्री विजयपुरम, which is also printed alongside Sri Vijaya Puram in an official 13 February 2026 Andaman and Nicobar Gazette notice. Official documents also use the spaced variant श्री विजय पुरम; the selected form follows the municipal council.",
+    "classification": "official-city-renaming",
+    "type": "correction"
+  }
+]

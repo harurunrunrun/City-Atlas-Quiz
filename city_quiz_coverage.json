@@ -1,0 +1,2849 @@
+{
+  "schemaVersion": 2,
+  "asOf": "2026-10-08",
+  "title": "Independently re-reviewed documentary coverage evidence",
+  "method": "Existing coverage eligibility was independently re-reviewed on 2026-10-08 against the sources listed per record. Sources include Google, official partners/governments, primary research and original reporting; source types and limits are explicit. No GeoGuessr eligibility table is used as evidence in this revision. This is not a claim of clean-room original app creation or legal clearance. Specialist-community references are used for the four entries explicitly marked independently-supported-road; only brief factual eligibility summaries and links are included.",
+  "criterion": "Documented released official Google or official-partner road imagery, with explicit limited/mixed street-Trekker exceptions for Faroe Islands and the 15-town Greenland whitelist. Country inclusion does not establish every street or city is covered.",
+  "reviewedRegionCount": 105,
+  "playableRegionCount": 104,
+  "enabledUnverifiedRoadRegions": [],
+  "statusDefinitions": {
+    "confirmed": "Documentary release evidence supports roads; no current live-panorama or every-city verification.",
+    "limited": "Explicitly limited geographic/scope evidence; consult source type and notes.",
+    "documentary-supported-road": "Medium-confidence original reporting supports road release.",
+    "documentary-supported-limited-road": "Medium-confidence partner-announcement reporting and original observation support some streets.",
+    "independently-supported-road": "Medium-confidence specialist-community documentation supports official road imagery; not a primary Google release verification or every-city claim."
+  },
+  "countries": [
+    {
+      "iso2": "AL",
+      "name": "Albania",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/"
+      ],
+      "evidence": [
+        {
+          "url": "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/",
+          "sourceDate": "2026-07-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Albania’s official tourism agency reports completed road/city imagery refresh, part of the four-country Balkan update covering over 103,000 km.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_tourism_partner"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "AD",
+      "name": "Andorra",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://espana.googleblog.com/2012/09/street-view-llega-andorra.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://espana.googleblog.com/2012/09/street-view-llega-andorra.html",
+          "sourceDate": "2012-09-26",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces car-captured street imagery for the capital and villages of Andorra, publicly available that day.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "AR",
+      "name": "Argentina",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://latam.googleblog.com/2014/09/visiten-argentina-de-cerca-y-exploren-nuevos-lugres-en-mexico-con-street-view.html?m=0",
+        "https://blog.google/products-and-platforms/products/maps/virtual-travel-day-with-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://latam.googleblog.com/2014/09/visiten-argentina-de-cerca-y-exploren-nuevos-lugres-en-mexico-con-street-view.html?m=0",
+          "publisher": "Google",
+          "publishedDate": "2014-09-26",
+          "evidence": "Google announced that major Argentine cities were available, including Ushuaia, Rosario and Buenos Aires.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/virtual-travel-day-with-street-view/",
+          "publishedDate": "2020-05-19",
+          "publisher": "Google",
+          "evidence": "Google specifically features Ruta Provincial 74 in its available road imagery examples.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced that major Argentine cities were available, including Ushuaia, Rosario and Buenos Aires.",
+      "notes": ""
+    },
+    {
+      "iso2": "AU",
+      "name": "Australia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2008/08/more-streets-in-more-places.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2008/08/more-streets-in-more-places.html",
+          "publishedAt": "2008-08-04",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced released imagery with extensive Australian coverage, including Sydney, Perth, Melbourne and places between them.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "AT",
+      "name": "Austria",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.tt.com/artikel/14584970/google-street-view-wien-graz-und-linz-seit-heute-verfuegbar"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tt.com/artikel/14584970/google-street-view-wien-graz-und-linz-seit-heute-verfuegbar",
+          "sourceDate": "2018-07-12",
+          "checkedAt": "2026-10-08",
+          "summary": "APA original launch press-conference reporting confirms publicly available car imagery in Vienna, Graz and Linz, following capture of over 3,000 km of public roads.",
+          "sourceType": "national_news_agency_google_press_conference",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Published official road coverage is documented; no claim of all roads/cities or current panorama-level verification."
+    },
+    {
+      "iso2": "BD",
+      "name": "Bangladesh",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/explore-history-beaches-and-tea-wi/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/explore-history-beaches-and-tea-wi/",
+          "publishedAt": "2016-06-09",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced new city imagery in Barisal, Rajshahi, Sylhet and Rangpur after Dhaka, Chittagong and Khulna the previous year; the article separately identifies 63 special collections.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "BE",
+      "name": "Belgium",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2011/11/streetview-comes-to-to-heart-of.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2011/11/streetview-comes-to-to-heart-of.html",
+          "sourceDate": "2011-11-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google launches Belgium, describing publicly visible road imagery, Brussels and towns beyond it.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "BT",
+      "name": "Bhutan",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/why-bhutan-went-on-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/why-bhutan-went-on-street-view/",
+          "publishedAt": "2014-10-27",
+          "publisherType": "Google-hosted first-person government partner announcement",
+          "evidence": "Bhutan government secretary describes the completed Street View launch, based on a Google vehicle driving over 3,000 km of mountain roads; Ura Highway is a specific example.",
+          "sourceType": "Google-hosted first-person government partner announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "BO",
+      "name": "Bolivia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://latam.googleblog.com/2015/11/exploren-la-historia-y-cultura-de.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://latam.googleblog.com/2015/11/exploren-la-historia-y-cultura-de.html",
+          "publisher": "Google",
+          "publishedDate": "2015-11-12",
+          "evidence": "Google launched Bolivia and Ecuador, explicitly including car-captured streets of major cities alongside separate special collections.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched Bolivia and Ecuador, explicitly including car-captured streets of major cities alongside separate special collections.",
+      "notes": ""
+    },
+    {
+      "iso2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/street-view-comes-to-bosnia-and-herzegovina/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/street-view-comes-to-bosnia-and-herzegovina/",
+          "sourceDate": "2025-11-04",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces that Bosnia and Herzegovina can now be explored, from cities to mountainous landscapes.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "BW",
+      "name": "Botswana",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://africa.googleblog.com/2012/11/street-view-on-google-maps-now-live-in.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://africa.googleblog.com/2012/11/street-view-on-google-maps-now-live-in.html",
+          "publisher": "Google",
+          "publishedDate": "2012-11-28",
+          "evidence": "Google announced Botswana imagery now live and explicitly invited users to explore streets of Gaborone, besides parks and remote landscapes.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced Botswana imagery now live and explicitly invited users to explore streets of Gaborone, besides parks and remote landscapes.",
+      "notes": ""
+    },
+    {
+      "iso2": "BR",
+      "name": "Brazil",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://latam.googleblog.com/2014/06/obtengan-asientos-en-primera-fila-para.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://latam.googleblog.com/2014/06/obtengan-asientos-en-primera-fila-para.html",
+          "publisher": "Google",
+          "publishedDate": "2014-06-05",
+          "evidence": "Google announced available imagery of Brazilian public streets, with named examples in Rio de Janeiro and São Paulo, alongside World Cup stadium collections.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced available imagery of Brazilian public streets, with named examples in Rio de Janeiro and São Paulo, alongside World Cup stadium collections.",
+      "notes": ""
+    },
+    {
+      "iso2": "BG",
+      "name": "Bulgaria",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/03/expanding-street-view-in-europe.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/03/expanding-street-view-in-europe.html",
+          "sourceDate": "2013-03-07",
+          "checkedAt": "2026-10-08",
+          "summary": "Google releases Bulgaria city coverage, nearly 200 additional Russian towns and cities, and thousands of miles of refreshed British imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "KH",
+      "name": "Cambodia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://asia.googleblog.com/2014/08/from-roads-to-reefs-and-temples-well-go.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://asia.googleblog.com/2014/08/from-roads-to-reefs-and-temples-well-go.html",
+          "publishedAt": "2014-08-21",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced new city panoramas of Phnom Penh, Siem Reap and over ten other provinces as part of its roads, reefs and temples release.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Country-level road eligibility only; article does not establish every city or road is covered."
+    },
+    {
+      "iso2": "CA",
+      "name": "Canada",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2009/10/gold-medal-worthy-street-view-update.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2009/10/gold-medal-worthy-street-view-update.html",
+          "publisher": "Google",
+          "publishedDate": "2009-10-07",
+          "evidence": "Google launched Canadian imagery across 11 cities and explicitly states it was gathered from public roads.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched Canadian imagery across 11 cities and explicitly states it was gathered from public roads.",
+      "notes": ""
+    },
+    {
+      "iso2": "CL",
+      "name": "Chile",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://latam.googleblog.com/2012/09/descubran-las-nuevas-imagenes-de-chile.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://latam.googleblog.com/2012/09/descubran-las-nuevas-imagenes-de-chile.html",
+          "publisher": "Google",
+          "publishedDate": "2012-09-26",
+          "evidence": "Google announced that users could explore streets in Concepción, Santiago and Valparaíso starting that day.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced that users could explore streets in Concepción, Santiago and Valparaíso starting that day.",
+      "notes": ""
+    },
+    {
+      "iso2": "CO",
+      "name": "Colombia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://latam.googleblog.com/2017/02/",
+        "https://latam.googleblog.com/2012/06/los-vehiculos-de-street-view-salen-las.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://latam.googleblog.com/2017/02/",
+          "publisher": "Google",
+          "publishedDate": "2017-02-28",
+          "evidence": "Google reported Street View already available in more than 51 Colombian cities, separately from nine national parks and indoor collections.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://latam.googleblog.com/2012/06/los-vehiculos-de-street-view-salen-las.html",
+          "publisher": "Google",
+          "publishedDate": "2012-06-26",
+          "evidence": "Earlier Google announcement explicitly establishes Google vehicle collection on city streets; used only for provider/road scope, not release date.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google reported Street View already available in more than 51 Colombian cities, separately from nine national parks and indoor collections.",
+      "notes": "Article titled Explora el Paisaje Cultural Cafetero de Colombia en Google Street View; archive page indexed text verified, direct fetch returned 429."
+    },
+    {
+      "iso2": "CR",
+      "name": "Costa Rica",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/es-419/actualizaciones-de-producto/informacion/google-street-view-llega-a-paraguay-y-se-expande-en-costa-rica/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/es-419/actualizaciones-de-producto/informacion/google-street-view-llega-a-paraguay-y-se-expande-en-costa-rica/",
+          "publisher": "Google",
+          "publishedDate": "2025-11-25",
+          "evidence": "Google announced released expansion covering more than 16,000 km of Costa Rican roads, including San José metro, Cartago and Limón.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced released expansion covering more than 16,000 km of Costa Rican roads, including San José metro, Cartago and Limón.",
+      "notes": "This supersedes older ambiguous tourist-only or future filming evidence."
+    },
+    {
+      "iso2": "HR",
+      "name": "Croatia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2012/09/introducing-imagery-of-chile-and.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2012/09/introducing-imagery-of-chile-and.html",
+          "sourceDate": "2012-09-26",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces published Croatian imagery from many towns and cities, including Zagreb, Split and Dubrovnik.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "CY",
+      "name": "Cyprus",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.cyprus-mail.com/2025/11/04/google-street-view-now-covers-more-of-the-island"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cyprus-mail.com/2025/11/04/google-street-view-now-covers-more-of-the-island",
+          "sourceDate": "2025-11-04",
+          "checkedAt": "2026-10-08",
+          "summary": "Cyprus Mail launch reporting cites Google announcement of available street imagery after more than 10,000 km of roads were recorded.",
+          "sourceType": "national_news_reporting_google_announcement",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Road release confirmed. This source does not establish the exact boundary of northern-Cyprus exclusion; preserve narrow existing Republic-controlled-south scope rather than imply island-wide coverage."
+    },
+    {
+      "iso2": "CZ",
+      "name": "Czechia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2009/10/bonus-batch-of-street-view-imagery.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2009/10/bonus-batch-of-street-view-imagery.html",
+          "sourceDate": "2009-10-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Google confirms Czech Republic Street View imagery was made available the previous day.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "DK",
+      "name": "Denmark",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "DO",
+      "name": "Dominican Republic",
+      "status": "independently-supported-road",
+      "confidence": "medium",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.plonkit.net/guide",
+        "https://www.plonkit.net/dominican-republic"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.plonkit.net/guide",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "The guide defines its scope as official Google coverage and excludes individual photospheres and Ari coverage."
+        },
+        {
+          "url": "https://www.plonkit.net/dominican-republic",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "Road imagery is documented in Santo Domingo and Santiago; this does not establish coverage of every selected city."
+        }
+      ],
+      "notes": "Eligibility is supported by independent specialist-community documentation, not a newly verified primary Google release announcement. Road imagery is documented in Santo Domingo and Santiago; this does not establish coverage of every selected city.",
+      "sourceType": "specialist_community"
+    },
+    {
+      "iso2": "EC",
+      "name": "Ecuador",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://latam.googleblog.com/2015/11/exploren-la-historia-y-cultura-de.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://latam.googleblog.com/2015/11/exploren-la-historia-y-cultura-de.html",
+          "publisher": "Google",
+          "publishedDate": "2015-11-12",
+          "evidence": "Google launched Bolivia and Ecuador, explicitly including car-captured streets of major cities alongside separate special collections.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched Bolivia and Ecuador, explicitly including car-captured streets of major cities alongside separate special collections.",
+      "notes": ""
+    },
+    {
+      "iso2": "EE",
+      "name": "Estonia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2012/05/visit-baltic-nations-of-estonia-and.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2012/05/visit-baltic-nations-of-estonia-and.html",
+          "sourceDate": "2012-05-15",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces available Street View for Estonia and Latvia, including Tallinn and Latvian cities.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "SZ",
+      "name": "Eswatini",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://africa.googleblog.com/2013/10/swaziland-next-african-country-to-come.html",
+        "https://umhambi.blogspot.com/2013/10/"
+      ],
+      "evidence": [
+        {
+          "url": "https://africa.googleblog.com/2013/10/swaziland-next-african-country-to-come.html",
+          "publisher": "Google",
+          "publishedDate": "2013-10-24",
+          "evidence": "Google confirms released Swaziland imagery including nature reserves, Low Level Bridge and a cultural village.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://umhambi.blogspot.com/2013/10/",
+          "publisher": "TravelComments.com, independent Southern Africa travel-news publisher",
+          "publishedDate": "2013-10-17",
+          "evidence": "Contemporaneous report titled Google Street View is now available in Swaziland explicitly invites exploration of country roads and main cities Mbabane and Manzini.",
+          "sourceType": "TravelComments.com, independent Southern Africa travel-news publisher",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google confirms released Swaziland imagery. Contemporaneous travel reporting explicitly describes available roads and exploration of Mbabane and Manzini.",
+      "notes": "Evidence chain: official Google release plus independent contemporaneous road-scope reporting, rather than a Google-owned road-specific announcement. Some road coverage qualifies; nationwide scope is not claimed. Road-scope corroboration has lower authority than a government or Google release."
+    },
+    {
+      "iso2": "FO",
+      "name": "Faroe Islands",
+      "status": "limited",
+      "confidence": "limited-documentary",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://visitfaroeislands.com/en/about-vfi/marketing-development-campaigns/sheepview360/thanks-to-sheep-view"
+      ],
+      "evidence": [
+        {
+          "url": "https://visitfaroeislands.com/en/about-vfi/marketing-development-campaigns/sheepview360/thanks-to-sheep-view",
+          "sourceDate": null,
+          "checkedAt": "2026-10-08",
+          "summary": "Official tourism partner confirms Google announced released Faroese Street View, collected with loaned Trekker and cameras using cars and other modes.",
+          "sourceType": "official_tourism_partner",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Preserve explicit requested region as official-partner mixed street/Trekker exception. This page alone does not certify blanket Google-car road-network coverage. Its campaign year text has an internal 2017/2016 inconsistency; no exact launch date inferred."
+    },
+    {
+      "iso2": "FI",
+      "name": "Finland",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2010_02_01_archive.html?m=1"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2010_02_01_archive.html?m=1",
+          "sourceDate": "2010-02",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces that Norway and Finland imagery has been added, in the Street View snowmobile launch article.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "FR",
+      "name": "France",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+          "sourceDate": "2013-04-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Hungary launch and expanded existing coverage, in an update containing nearly 350,000 miles of road imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "GE",
+      "name": "Georgia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/georgia-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/georgia-street-view/",
+          "sourceDate": "2026-06-22",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces live imagery from 13,000 kilometers, including city streets and drives through Goderdzi and Jvari passes.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "DE",
+      "name": "Germany",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/de-de/produkte/suchen-entdecken/deutschland-tour-mit-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/de-de/produkte/suchen-entdecken/deutschland-tour-mit-street-view/",
+          "sourceDate": "2010-11-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Google says it has put street images from Germany’s 20 largest cities online.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "GH",
+      "name": "Ghana",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/en-africa/products/explore-get-answers/experience-the-vibrant-beauty-of-ghana-like-never-before-with-updated-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/en-africa/products/explore-get-answers/experience-the-vibrant-beauty-of-ghana-like-never-before-with-updated-street-view/",
+          "publisher": "Google",
+          "publishedDate": "2026-06-17",
+          "evidence": "Google states released imagery covers expanded road networks in Accra and Kumasi plus national highways N10, N12 and N2.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google states released imagery covers expanded road networks in Accra and Kumasi plus national highways N10, N12 and N2.",
+      "notes": "The article separately describes a further 2026 collection campaign; that future campaign is not the eligibility evidence."
+    },
+    {
+      "iso2": "GR",
+      "name": "Greece",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2014/06/street-view-arrives-in-56th-country.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2014/06/street-view-arrives-in-56th-country.html",
+          "sourceDate": "2014-06-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Greece launch explicitly describing panoramic virtual tours of public roads.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "GL",
+      "name": "Greenland",
+      "status": "limited",
+      "confidence": "limited-documentary",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2015/02/greenlandic-fjords-and-viking-ruins.html",
+        "https://visitgreenland.com/articles/google-street-view/",
+        "https://ina.gl/media/n3jbyw2o/pkt11_fm2016_regnskab2015_bilag3_da.pdf",
+        "https://backend.orbit.dtu.dk/ws/files/169853887/Ingeman_Nielsen_et_al._2018_Calibration_and_validation_data_for_circumpolar_Arctic_infrastructure_mapping_algorithm.pdf",
+        "https://www.sermitsiaq.ag/erhverv/start-her-besog-din-bygd-i-google-street-view/680398",
+        "https://www.sermitsiaq.ag/samfund/billeder-udforsk-gronland-til-havs-og-pa-land-med-google-street-view/216352"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2015/02/greenlandic-fjords-and-viking-ruins.html",
+          "sourceDate": "2015-02-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Google confirms live imagery produced with Visit Greenland and Asiaq, including Nuuk colonial harbor and Ilulissat.",
+          "sourceType": "official_google",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://visitgreenland.com/articles/google-street-view/",
+          "sourceDate": null,
+          "checkedAt": "2026-10-08",
+          "summary": "Government-owned Visit Greenland confirms live Nuuk, Tasiilaq and Ilulissat imagery.",
+          "sourceType": "official_tourism_partner",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://ina.gl/media/n3jbyw2o/pkt11_fm2016_regnskab2015_bilag3_da.pdf",
+          "sourceDate": "2016-03-01",
+          "checkedAt": "2026-10-08",
+          "summary": "Asiaq annual report documents Google-sponsored imagery on foot, by car, ATV and boat. First release occurred in early 2015; later release was still planned, so capture count alone is not availability evidence.",
+          "sourceType": "government_partner_annual_report",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://backend.orbit.dtu.dk/ws/files/169853887/Ingeman_Nielsen_et_al._2018_Calibration_and_validation_data_for_circumpolar_Arctic_infrastructure_mapping_algorithm.pdf",
+          "sourceDate": "2018",
+          "checkedAt": "2026-10-08",
+          "summary": "Original DTU research report explicitly states Street View is available for selected settlements, including Ilulissat, Kangerlussuaq, Sisimiut, Qeqertarsuaq, Qaanaaq and Uummannaq.",
+          "sourceType": "primary_research",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://www.sermitsiaq.ag/erhverv/start-her-besog-din-bygd-i-google-street-view/680398",
+          "sourceDate": "2016-03-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Original release reporting quotes Asiaq and Visit Greenland staff, states their Trekker imagery was collected for Google, and provides released town imagery links including Aasiaat, Maniitsoq, Kangaatsiaq, Qasigiannguit and Qeqertarsuaq.",
+          "sourceType": "national_news_partner_interviews",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://www.sermitsiaq.ag/samfund/billeder-udforsk-gronland-til-havs-og-pa-land-med-google-street-view/216352",
+          "sourceDate": "2015-02-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Original reporting of partner press release states imagery was made available that day, expressly naming Tasiilaq, Qaqortoq, Narsaq, Paamiut, Nuuk, Ilulissat and Uummannaq among the places.",
+          "sourceType": "national_news_partner_announcement",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Preserve explicit 15-town whitelist unchanged. Primary project and research evidence was rechecked; town-list support also uses named partner announcement reporting. No live panorama-level check performed."
+    },
+    {
+      "iso2": "GT",
+      "name": "Guatemala",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://uip.inguat.gob.gt/index.php/articulo-10-informacion-publica/descargas/2-articulo-10-informacion-publica/7-05-mision-y-objetivos-de-la-institucion/75-2018?download=443%3Amemoria-de-labores-ejercicio-fiscal-2017&start=20"
+      ],
+      "evidence": [
+        {
+          "url": "https://uip.inguat.gob.gt/index.php/articulo-10-informacion-publica/descargas/2-articulo-10-informacion-publica/7-05-mision-y-objetivos-de-la-institucion/75-2018?download=443%3Amemoria-de-labores-ejercicio-fiscal-2017&start=20",
+          "publisher": "Official government/tourism or primary research",
+          "publishedDate": "2017",
+          "evidence": "INGUAT’s 2017 annual report says Google partnership imagery is available in Guatemala; the Google team drove over 4,000 miles and photographed public roads in Guatemala City, Antigua, Chichicastenango, Chimaltenango and other places.",
+          "sourceType": "Official government/tourism or primary research",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "INGUAT’s 2017 annual report says Google partnership imagery is available in Guatemala; the Google team drove over 4,000 miles and photographed public roads in Guatemala City, Antigua, Chichicastenango, Chimaltenango and other places.",
+      "notes": "Official partner annual report distinguishes vehicle road capture from special Trekker/tripod collections."
+    },
+    {
+      "iso2": "HU",
+      "name": "Hungary",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+          "sourceDate": "2013-04-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Hungary launch and expanded existing coverage, in an update containing nearly 350,000 miles of road imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "IS",
+      "name": "Iceland",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/earth/3-imagery-updates-to-google-earth-and-maps/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/earth/3-imagery-updates-to-google-earth-and-maps/",
+          "sourceDate": "2024-09-24",
+          "checkedAt": "2026-10-08",
+          "summary": "Google describes updated existing Icelandic Street View imagery and an example taken from a road bridge near Diamond Beach.",
+          "sourceType": "official_google",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Published official road coverage is documented; no claim of all roads/cities or current panorama-level verification."
+    },
+    {
+      "iso2": "IN",
+      "name": "India",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/en-in/products/explore-communicate/google-announces-local-partnerships-to-build-a-more-helpful-maps-experience-in-india/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/en-in/products/explore-communicate/google-announces-local-partnerships-to-build-a-more-helpful-maps-experience-in-india/",
+          "publishedAt": "2022-07-27",
+          "publisherType": "Google official announcement",
+          "evidence": "Google launched Street View using locally licensed partner imagery and instructs users to zoom into roads in the target cities.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Official partner coverage: local partners perform collection, as explicitly explained by Google."
+    },
+    {
+      "iso2": "ID",
+      "name": "Indonesia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://asia.googleblog.com/2014/08/from-roads-to-reefs-and-temples-well-go.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://asia.googleblog.com/2014/08/from-roads-to-reefs-and-temples-well-go.html",
+          "publishedAt": "2014-08-21",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced street-level views available that day in Jakarta, Surabaya, Denpasar and Bogor, including the Hotel Indonesia traffic roundabout.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "IE",
+      "name": "Ireland",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "IL",
+      "name": "Israel",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/01/discover-israel-on-google-maps.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/01/discover-israel-on-google-maps.html",
+          "publishedAt": "2013-01-17",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced publication of street-level imagery for hundreds of additional cities, towns and villages after its 2012 Jerusalem, Tel Aviv-Jaffa and Haifa release.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "This evidence is not used to infer country or boundary classification of any disputed place."
+    },
+    {
+      "iso2": "IT",
+      "name": "Italy",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+        "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        },
+        {
+          "url": "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+          "sourceDate": "2013-04-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Hungary launch and expanded existing coverage, in an update containing nearly 350,000 miles of road imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "JP",
+      "name": "Japan",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2008/08/more-streets-in-more-places.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2008/08/more-streets-in-more-places.html",
+          "publishedAt": "2008-08-04",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced released Street View imagery in major Japanese cities including Tokyo, Osaka, Kyoto and Kobe.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "JO",
+      "name": "Jordan",
+      "status": "independently-supported-road",
+      "confidence": "medium",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.plonkit.net/guide",
+        "https://www.plonkit.net/jordan"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.plonkit.net/guide",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "The guide defines its scope as official Google coverage and excludes individual photospheres and Ari coverage."
+        },
+        {
+          "url": "https://www.plonkit.net/jordan",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "Road imagery is documented in western towns and on principal roads; this does not establish nationwide or every-city coverage."
+        }
+      ],
+      "notes": "Eligibility is supported by independent specialist-community documentation, not a newly verified primary Google release announcement. Road imagery is documented in western towns and on principal roads; this does not establish nationwide or every-city coverage.",
+      "sourceType": "specialist_community"
+    },
+    {
+      "iso2": "KZ",
+      "name": "Kazakhstan",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/google-street-view-kazakhstan/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kazakhstan/",
+          "publishedAt": "2024-03-25",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced available imagery from vehicle travel over 42,000 km, naming Semey, Aktobe, Almaty, Shymkent and Astana and showing Al Farabi Avenue.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "KE",
+      "name": "Kenya",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://africa.googleblog.com/2018/10/google-for-kenya-helping-to-grow-kenyan.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://africa.googleblog.com/2018/10/google-for-kenya-helping-to-grow-kenyan.html",
+          "publisher": "Google",
+          "publishedDate": "2018-10-15",
+          "evidence": "Google launched 9,500 km of Kenyan imagery available on Maps for navigating and exploring cities and destinations.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched 9,500 km of Kenyan imagery available on Maps for navigating and exploring cities and destinations.",
+      "notes": ""
+    },
+    {
+      "iso2": "XK",
+      "name": "Kosovo",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/google-street-view-kosovo/",
+          "sourceDate": "2026-07-31",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces released car imagery across Kosovo, explicitly describing roads leading to monasteries and city streets.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "XK is user-assigned ISO-style identifier. Distinct quiz region, not a sovereignty assertion."
+    },
+    {
+      "iso2": "KG",
+      "name": "Kyrgyzstan",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://ru.sputnik.kg/20160507/1025042092.html",
+        "https://www.gov.kg/ru/post/s/russkiy-vitse-premer-ministr-gulmira-kudayberdieva-prinimaet-uchastie-v-rabote-mezhdunarodnoy-turisticheskoy-vyistavke-yarmarke-issyk-kul-itf-2016",
+        "https://www.unescap.org/sites/default/files/1-Road%20safety%20study%20report.pdf"
+      ],
+      "evidence": [
+        {
+          "url": "https://ru.sputnik.kg/20160507/1025042092.html",
+          "publishedAt": "2016-05-07",
+          "publisherType": "Original news report interviewing official tourism-department director",
+          "evidence": "Tourism director Azamat Dzhamankulov tells Sputnik the service launched overnight May 5–6; the report explicitly names Bishkek streets and the Bishkek–Osh and Bishkek–Cholpon-Ata highways, captured by Google staff.",
+          "sourceType": "Original news report interviewing official tourism-department director",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://www.gov.kg/ru/post/s/russkiy-vitse-premer-ministr-gulmira-kudayberdieva-prinimaet-uchastie-v-rabote-mezhdunarodnoy-turisticheskoy-vyistavke-yarmarke-issyk-kul-itf-2016",
+          "publishedAt": "2016-05",
+          "publisherType": "Government partner announcement",
+          "evidence": "Kyrgyz government reports its deputy prime minister participating in the Google Street View presentation at Issyk-Kul ITF 2016 and welcoming virtual exploration for residents and tourists.",
+          "sourceType": "Government partner announcement",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://www.unescap.org/sites/default/files/1-Road%20safety%20study%20report.pdf",
+          "publishedAt": "2017",
+          "publisherType": "United Nations original road-infrastructure study",
+          "evidence": "Shows a Class II road through mountainous terrain on AH61 in Kyrgyzstan with a Google Street View October 2015 attribution. Search-indexed PDF text was available; direct fetch failed.",
+          "sourceType": "United Nations original road-infrastructure study",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Released streets and highways directly established by a tourism-department director interview; not a claim of nationwide coverage."
+    },
+    {
+      "iso2": "LA",
+      "name": "Laos",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://asia.googleblog.com/2015/07/take-spin-around-vientiane-with-new.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://asia.googleblog.com/2015/07/take-spin-around-vientiane-with-new.html",
+          "publishedAt": "2015-07-14",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced new Vientiane imagery captured throughout the city by its fleet and explicitly invites travel along Quai Fa Ngum road.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Limited geographic evidence: confirms Vientiane city roads, not nationwide coverage."
+    },
+    {
+      "iso2": "LV",
+      "name": "Latvia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2012/05/visit-baltic-nations-of-estonia-and.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2012/05/visit-baltic-nations-of-estonia-and.html",
+          "sourceDate": "2012-05-15",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces available Street View for Estonia and Latvia, including Tallinn and Latvian cities.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "LB",
+      "name": "Lebanon",
+      "status": "limited",
+      "confidence": "limited-documentary",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://the961.com/google-street-view-is-working-in-lebanon/",
+        "https://blog.google/products-and-platforms/products/maps/bringing-magic-lebanon-world/",
+        "https://blog.google/intl/en-mena/product-updates/explore-get-answers/google-street-view-is-coming-to-oman/"
+      ],
+      "evidence": [
+        {
+          "url": "https://the961.com/google-street-view-is-working-in-lebanon/",
+          "publishedAt": "2024-05-03",
+          "publisherType": "Lebanese news outlet original coverage-release report",
+          "evidence": "The961 reports Google newly introduced virtual access to Lebanese streets and landmarks in Beirut, Mount Lebanon and Beqaa, distinguishing the new 2021–2023-captured release from the older 2018 attraction-only imagery.",
+          "sourceType": "Lebanese news outlet original coverage-release report",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/bringing-magic-lebanon-world/",
+          "publishedAt": "2018-09-12",
+          "publisherType": "Google official announcement",
+          "evidence": "Google confirms release of 41 iconic sites and Byblos street markets. A later Oman announcement lists Lebanon among countries already on Street View, but neither source explicitly establishes a released public-road network.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/google-street-view-is-coming-to-oman/",
+          "publishedAt": "2024-12-12",
+          "publisherType": "Google official announcement",
+          "evidence": "Lists Lebanon among countries already on Street View without describing its road extent.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Limited released official road coverage reported for Beirut, Mount Lebanon and Beqaa; no nationwide claim. Contemporary local reporting supplements Google confirmation of existing Street View presence."
+    },
+    {
+      "iso2": "LS",
+      "name": "Lesotho",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/celebrating-50th-country-on-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/celebrating-50th-country-on-street-view/",
+          "publisher": "Google",
+          "publishedDate": "2013-04-23",
+          "evidence": "Google launched Lesotho and explicitly describes winding-road imagery captured by Street View cars.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched Lesotho and explicitly describes winding-road imagery captured by Street View cars.",
+      "notes": ""
+    },
+    {
+      "iso2": "LI",
+      "name": "Liechtenstein",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.datenschutzstelle.li/application/files/6317/4920/1644/Web_Datenschutzstelle_Taetigkeitsbericht_2024.pdf"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.datenschutzstelle.li/application/files/6317/4920/1644/Web_Datenschutzstelle_Taetigkeitsbericht_2024.pdf",
+          "sourceDate": "2025",
+          "checkedAt": "2026-10-08",
+          "summary": "Liechtenstein data-protection authority’s 2024 annual report, page 20, says Street View was introduced during 2024 and road/path views can now be displayed in Maps.",
+          "sourceType": "government_annual_report",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Published official road coverage is documented; no claim of all roads/cities or current panorama-level verification."
+    },
+    {
+      "iso2": "LT",
+      "name": "Lithuania",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.15min.lt/en/article/economy/google-launches-street-view-project-in-lithuania-527-302383"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.15min.lt/en/article/economy/google-launches-street-view-project-in-lithuania-527-302383",
+          "sourceDate": "2013-01-31",
+          "checkedAt": "2026-10-08",
+          "summary": "Original launch reporting quotes Google’s Ulf Spitzer at Vilnius press conference: coverage includes largest cities and connecting roads, with service now available.",
+          "sourceType": "national_news_google_press_conference",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Published official road coverage is documented; no claim of all roads/cities or current panorama-level verification."
+    },
+    {
+      "iso2": "LU",
+      "name": "Luxembourg",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://cnpd.public.lu/en/particuliers/vos-droits/droit-opposition/google-street-view-droit-opposition.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://cnpd.public.lu/en/particuliers/vos-droits/droit-opposition/google-street-view-droit-opposition.html",
+          "sourceDate": null,
+          "checkedAt": "2026-10-08",
+          "summary": "Luxembourg’s national data-protection authority describes Google photographing public roads to update imagery already available in Maps.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "government"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "MY",
+      "name": "Malaysia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://asia.googleblog.com/2014/09/go-on-cross-country-malaysian-adventure.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://asia.googleblog.com/2014/09/go-on-cross-country-malaysian-adventure.html",
+          "publishedAt": "2014-09-30",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced that imagery along about 90% of West Malaysia public roads was now available, collected by Street View cars.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "MT",
+      "name": "Malta",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/company-news/inside-google/around-the-globe/google-europe/wonders-malta-and-google-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/wonders-malta-and-google-street-view/",
+          "sourceDate": "2017-06",
+          "checkedAt": "2026-10-08",
+          "summary": "Google says Street View is now available after driving more than 2,500 kilometers in Malta and Gozo.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "MX",
+      "name": "Mexico",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2009/11/?amp=1"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2009/11/?amp=1",
+          "publisher": "Google",
+          "publishedDate": "2009-11-10",
+          "evidence": "Google announced newly available imagery in five Mexican cities, describing virtual street exploration and roadside food stalls in Mexico City.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced newly available imagery in five Mexican cities, describing virtual street exploration and roadside food stalls in Mexico City.",
+      "notes": "Article More views in more countries in November 2009 archive; indexed text verified."
+    },
+    {
+      "iso2": "MC",
+      "name": "Monaco",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": false,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/07/street-view-comes-to-glamorous-monaco.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/07/street-view-comes-to-glamorous-monaco.html",
+          "sourceDate": "2011-07-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Monaco imagery including public streets used by the Grand Prix circuit.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "MN",
+      "name": "Mongolia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2015/07/a-journey-of-5000km-begins-with-single.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2015/07/a-journey-of-5000km-begins-with-single.html",
+          "publishedAt": "2015-07-22",
+          "publisherType": "Google official announcement",
+          "evidence": "Google released imagery across 5,000 km from cameras mounted on four-wheel-drive trucks; the Eastern Highway and Ulaanbaatar outskirts are examples.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "ME",
+      "name": "Montenegro",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/"
+      ],
+      "evidence": [
+        {
+          "url": "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/",
+          "sourceDate": "2026-07-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Albania’s official tourism agency reports completed road/city imagery refresh, part of the four-country Balkan update covering over 103,000 km.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_tourism_partner"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "NA",
+      "name": "Namibia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/en-africa/discover-namibia-through-google-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/en-africa/discover-namibia-through-google-street-view/",
+          "publisher": "Google",
+          "publishedDate": null,
+          "evidence": "Google says over 21,000 km of imagery is available, including Windhoek streets and navigation through many named towns and cities.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google says over 21,000 km of imagery is available, including Windhoek streets and navigation through many named towns and cities.",
+      "notes": "Article body does not display an exact publication date; search index labels it approximately 1.3 years old. Checked 2026-10-08; not relying on 2024 future-announcement language."
+    },
+    {
+      "iso2": "NP",
+      "name": "Nepal",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/nepal-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/nepal-street-view/",
+          "publishedAt": "2025-08-15",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced that Nepal was now available in Street View, expressly naming Kathmandu streets, Terai and roads with Himalayan views.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Use this 2025 road release, not older Everest/temple Trekker imagery."
+    },
+    {
+      "iso2": "NL",
+      "name": "Netherlands",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "NZ",
+      "name": "New Zealand",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://australia.googleblog.com/2008/12/street-view-now-in-new-zealand.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://australia.googleblog.com/2008/12/street-view-now-in-new-zealand.html",
+          "publishedAt": "2008-12-02",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced a live launch covering New Zealand streets and towns, all major CBDs and many remote places.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "NG",
+      "name": "Nigeria",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/en-africa/company-news/inside-google/making-internet-work-better-for/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/en-africa/company-news/inside-google/making-internet-work-better-for/",
+          "publisher": "Google",
+          "publishedDate": "2017-07-27",
+          "evidence": "Google launched Lagos with 10,000 km of imagery and named historic roads and bridges that users could virtually drive.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched Lagos with 10,000 km of imagery and named historic roads and bridges that users could virtually drive.",
+      "notes": ""
+    },
+    {
+      "iso2": "MK",
+      "name": "North Macedonia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/"
+      ],
+      "evidence": [
+        {
+          "url": "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/",
+          "sourceDate": "2026-07-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Albania’s official tourism agency reports completed road/city imagery refresh, part of the four-country Balkan update covering over 103,000 km.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_tourism_partner"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "NO",
+      "name": "Norway",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+        "https://maps.googleblog.com/2010_02_01_archive.html?m=1"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        },
+        {
+          "url": "https://maps.googleblog.com/2010_02_01_archive.html?m=1",
+          "sourceDate": "2010-02",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces that Norway and Finland imagery has been added, in the Street View snowmobile launch article.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "OM",
+      "name": "Oman",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/en-mena/product-updates/explore-get-answers/google-street-view-is-coming-to-oman/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/google-street-view-is-coming-to-oman/",
+          "publishedAt": "2024-12-12",
+          "publisherType": "Google official announcement",
+          "evidence": "Despite the title, Google explicitly says people can now explore Omani streets and announces phase-one launch with government partners, captured by pickup-mounted Trekkers across about 36,000 km.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "A promised phase two is not needed as evidence: phase one is already released."
+    },
+    {
+      "iso2": "PS",
+      "name": "Palestine",
+      "status": "limited",
+      "confidence": "limited-documentary",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.wattan.net/ar/news/230812.html",
+        "https://blog.google/intl/en-mena/product-updates/explore-get-answers/google-street-view-is-coming-to-oman/",
+        "https://ramallahcity.ramallah.ps/ar_page.aspx?id=UKxC6fa2704882026aUKxC6f"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wattan.net/ar/news/230812.html",
+          "publishedAt": "2017-12-21",
+          "publisherType": "Original local news release report with municipal partnership details",
+          "evidence": "Wattan reports Ramallah streets and neighborhoods are now virtually visitable, explains that Google digitized the streets in partnership with Ramallah Municipality under ministry permission, and provides the released city imagery link.",
+          "sourceType": "Original local news release report with municipal partnership details",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/google-street-view-is-coming-to-oman/",
+          "publishedAt": "2024-12-12",
+          "publisherType": "Google official announcement",
+          "evidence": "Google lists Palestine among existing Street View countries, but does not specify roads, cities, West Bank/Gaza scope or source attribution at individual panoramas.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://ramallahcity.ramallah.ps/ar_page.aspx?id=UKxC6fa2704882026aUKxC6f",
+          "publishedAt": "2017-03-01",
+          "publisherType": "Official municipal partner announcement",
+          "evidence": "Earlier municipal announcement independently confirms the Google partnership and car-based capture of city streets; this supports provenance but is not itself release proof.",
+          "sourceType": "Official municipal partner announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Confirmed official released streets in Ramallah, West Bank. Country inclusion is limited geographically; evidence does not establish Gaza road coverage. Earlier uncertainty is resolved by the detailed contemporary road-release report."
+    },
+    {
+      "iso2": "PA",
+      "name": "Panama",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/es-419/actualizaciones-de-producto/informacion/street-view-llega-a-panama/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/es-419/actualizaciones-de-producto/informacion/street-view-llega-a-panama/",
+          "publisher": "Google",
+          "publishedDate": "2023-10-18",
+          "evidence": "Google launched imagery of Panama cities and major roads, after its camera cars traveled 20,000 km in 2022–2023.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched imagery of Panama cities and major roads, after its camera cars traveled 20,000 km in 2022–2023.",
+      "notes": ""
+    },
+    {
+      "iso2": "PY",
+      "name": "Paraguay",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/es-419/actualizaciones-de-producto/informacion/google-street-view-llega-a-paraguay-y-se-expande-en-costa-rica/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/es-419/actualizaciones-de-producto/informacion/google-street-view-llega-a-paraguay-y-se-expande-en-costa-rica/",
+          "publisher": "Google",
+          "publishedDate": "2025-11-25",
+          "evidence": "Google launched Paraguay coverage with more than 25,000 km of roads and cities including Asunción, Ciudad del Este and San Lorenzo.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google launched Paraguay coverage with more than 25,000 km of roads and cities including Asunción, Ciudad del Este and San Lorenzo.",
+      "notes": ""
+    },
+    {
+      "iso2": "PE",
+      "name": "Peru",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://justiciatv.pj.gob.pe/tribunal-de-chimbote-utiliza-aplicacion-google-maps-durante-audiencia/",
+        "https://latam.googleblog.com/2014/06/obtengan-asientos-en-primera-fila-para.html",
+        "https://elcomercio.pe/tecnologia/actualidad/street-view-peru-desde-hoy-funcion-esta-habilitada-noticia-1607796/"
+      ],
+      "evidence": [
+        {
+          "url": "https://justiciatv.pj.gob.pe/tribunal-de-chimbote-utiliza-aplicacion-google-maps-durante-audiencia/",
+          "publisher": "Official government/tourism or primary research",
+          "publishedDate": "2017-05-02",
+          "evidence": "Peru’s judiciary records using Google Street View to inspect a vehicle-arrest location and surroundings in Chimbote during an appellate hearing.",
+          "sourceType": "Official government/tourism or primary research",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://latam.googleblog.com/2014/06/obtengan-asientos-en-primera-fila-para.html",
+          "publisher": "Google",
+          "publishedDate": "2014-06-05",
+          "evidence": "Google confirms new imagery available in Peru.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://elcomercio.pe/tecnologia/actualidad/street-view-peru-desde-hoy-funcion-esta-habilitada-noticia-1607796/",
+          "publisher": "El Comercio, direct interview with Google Street View Americas manager Maite Iturria",
+          "publishedDate": "2013-08-14",
+          "evidence": "Google manager directly confirmed processed city images ready to view in Lima, Trujillo, Arequipa, Chiclayo and Piura after vehicle street collection.",
+          "sourceType": "El Comercio, direct interview with Google Street View Americas manager Maite Iturria",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Peru’s judiciary records using Google Street View to inspect a vehicle-arrest location and surroundings in Chimbote during an appellate hearing.",
+      "notes": "Combines primary government evidence of published street-area imagery with Google’s existing-imagery announcement and direct interview evidence of the road launch."
+    },
+    {
+      "iso2": "PH",
+      "name": "Philippines",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2015/09/islands-of-philippines-now-on-street.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2015/09/islands-of-philippines-now-on-street.html",
+          "publishedAt": "2015-09-16",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced available imagery in 37 cities, including downtown Manila and Vigan streets, after driving over 10,000 miles; the Department of Tourism supported the project.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "PL",
+      "name": "Poland",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+          "sourceDate": "2013-04-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Hungary launch and expanded existing coverage, in an update containing nearly 350,000 miles of road imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "PT",
+      "name": "Portugal",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2009/08/"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2009/08/",
+          "sourceDate": "2009-08-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly launched imagery in Portugal and Switzerland, explicitly describing a drive around Lake Geneva.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "PR",
+      "name": "Puerto Rico",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.discoverpuertorico.com/industry/download/600531-discover-puerto-rico-launches-initiative-to-update-google-street-view-images-tourist-attractions.pdf",
+        "https://latam.googleblog.com/2016/01/los-vehiculos-de-street-view-inician_19.html",
+        "https://www.elnuevodia.com/tecnologia/otros/notas/disponible-ya-en-puerto-rico-el-google-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.discoverpuertorico.com/industry/download/600531-discover-puerto-rico-launches-initiative-to-update-google-street-view-images-tourist-attractions.pdf",
+          "publisher": "Official government/tourism or primary research",
+          "publishedDate": "2022-11-30",
+          "evidence": "Official tourism organization confirms Puerto Rico’s last major Street View update was in 2016, explaining that streets had since changed.",
+          "sourceType": "Official government/tourism or primary research",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://latam.googleblog.com/2016/01/los-vehiculos-de-street-view-inician_19.html",
+          "publisher": "Google",
+          "publishedDate": "2016-01-19",
+          "evidence": "Google announced its vehicles collecting municipal public-road imagery in Puerto Rico; not alone proof of release.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://www.elnuevodia.com/tecnologia/otros/notas/disponible-ya-en-puerto-rico-el-google-street-view/",
+          "publisher": "El Nuevo Día, reporting Google launch announcement",
+          "publishedDate": "2016-12-13",
+          "evidence": "Reports Google announced availability after a 2,200-mile island survey, including streets and towns.",
+          "sourceType": "El Nuevo Día, reporting Google launch announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Official tourism organization confirms Puerto Rico’s last major Street View update was in 2016, explaining that streets had since changed.",
+      "notes": "Retrospective establishes release; Google collection article establishes provider and road scope. Later tourism-contributed imagery is not used as proof of Google-owned coverage."
+    },
+    {
+      "iso2": "QA",
+      "name": "Qatar",
+      "status": "independently-supported-road",
+      "confidence": "medium",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.plonkit.net/guide",
+        "https://www.plonkit.net/qatar"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.plonkit.net/guide",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "The guide defines its scope as official Google coverage and excludes individual photospheres and Ari coverage."
+        },
+        {
+          "url": "https://www.plonkit.net/qatar",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "Car-based imagery is documented on principal roads; this does not establish coverage of every selected city or street."
+        }
+      ],
+      "notes": "Eligibility is supported by independent specialist-community documentation, not a newly verified primary Google release announcement. Car-based imagery is documented on principal roads; this does not establish coverage of every selected city or street.",
+      "sourceType": "specialist_community"
+    },
+    {
+      "iso2": "RO",
+      "name": "Romania",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+        "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        },
+        {
+          "url": "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+          "sourceDate": "2013-04-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Hungary launch and expanded existing coverage, in an update containing nearly 350,000 miles of road imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "RU",
+      "name": "Russia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+        "https://europe.googleblog.com/2013/03/expanding-street-view-in-europe.html",
+        "https://maps.googleblog.com/2014/01/introducing-slovenia-street-view-and.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/04/celebrating-50th-country-on-street-view.html",
+          "sourceDate": "2013-04-23",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Hungary launch and expanded existing coverage, in an update containing nearly 350,000 miles of road imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        },
+        {
+          "url": "https://europe.googleblog.com/2013/03/expanding-street-view-in-europe.html",
+          "sourceDate": "2013-03-07",
+          "checkedAt": "2026-10-08",
+          "summary": "Google releases Bulgaria city coverage, nearly 200 additional Russian towns and cities, and thousands of miles of refreshed British imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        },
+        {
+          "url": "https://maps.googleblog.com/2014/01/introducing-slovenia-street-view-and.html",
+          "sourceDate": "2014-01-31",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Slovenian city coverage and Russian roads and cities, with 300,000 kilometers driven in Russia.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "RW",
+      "name": "Rwanda",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/company-news/inside-google/around-the-globe/google-africa/delivering-on-our-1b-commitment-in-africa/",
+        "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Press_Release/Government_of_Rwanda_and_Google_Collaborate_to_Accelerate_Digital_Transformation.pdf",
+        "https://disclosuresservice.ifc.org/api/File/downloadfile?id=%5C46217_ESRS%5CDUVAL+Mall_SLIP_Main+document.pdf"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-africa/delivering-on-our-1b-commitment-in-africa/",
+          "publisher": "Google",
+          "publishedDate": "2022-10-05",
+          "evidence": "Google confirms Street View service extended to Rwanda and now available in eleven African countries.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Press_Release/Government_of_Rwanda_and_Google_Collaborate_to_Accelerate_Digital_Transformation.pdf",
+          "publisher": "Rwanda Ministry of ICT and Innovation",
+          "publishedDate": null,
+          "evidence": "Google-government partnership included Street View mapping of key urban centres; context for scope, not release proof.",
+          "sourceType": "Rwanda Ministry of ICT and Innovation",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://disclosuresservice.ifc.org/api/File/downloadfile?id=%5C46217_ESRS%5CDUVAL+Mall_SLIP_Main+document.pdf",
+          "publisher": "IFC-hosted ERM environmental assessment",
+          "publishedDate": "2023-03-31",
+          "evidence": "Figure 4.16 on printed page 29 shows the Kigali project plot from its main road, sourced to Google Street View imagery of August 2022.",
+          "sourceType": "IFC-hosted ERM environmental assessment",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google confirms Street View service extended to Rwanda and now available in eleven African countries.",
+      "notes": "Government partnership specifies urban centres; IFC-hosted environmental assessment independently demonstrates published main-road imagery in Kigali."
+    },
+    {
+      "iso2": "SM",
+      "name": "San Marino",
+      "status": "documentary-supported-limited-road",
+      "confidence": "medium",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.googlesightseeing.com/2012/07/the-republic-of-san-marino/",
+        "https://news.tribunapoliticaweb.sm/economia/2017/06/15/google-mappa-le-vie-del-centro-storico-citta/"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.googlesightseeing.com/2012/07/the-republic-of-san-marino/",
+          "sourceDate": "2012-07-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Contemporaneous original observation reports navigable released Street View on San Marino roads beyond the border, the financial district and capital streets.",
+          "sourceType": "independent_original_observation",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://news.tribunapoliticaweb.sm/economia/2017/06/15/google-mappa-le-vie-del-centro-storico-citta/",
+          "sourceDate": "2017-06-15",
+          "checkedAt": "2026-10-08",
+          "summary": "Local reporting relays agency announcement of Google/tourism-approved walking work to fill gaps in existing San Marino street coverage.",
+          "sourceType": "local_news_partner_announcement",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Confirms pre-existing imagery plus planned gap filling, not independent Google-car release proof. Do not use future filming alone as release evidence. Partner-announcement reporting acknowledges existing streets, supplemented by original observations; accepted as medium-confidence limited-road evidence, not nationwide release proof."
+    },
+    {
+      "iso2": "ST",
+      "name": "São Tomé and Príncipe",
+      "status": "independently-supported-road",
+      "confidence": "medium",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.plonkit.net/guide",
+        "https://www.plonkit.net/sao-tome-and-principe"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.plonkit.net/guide",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "The guide defines its scope as official Google coverage and excludes individual photospheres and Ari coverage."
+        },
+        {
+          "url": "https://www.plonkit.net/sao-tome-and-principe",
+          "sourceType": "specialist_community",
+          "checkedAt": "2026-10-08",
+          "summary": "Car-based coverage is documented on both São Tomé and Príncipe; this does not establish coverage of every road or selected city."
+        }
+      ],
+      "notes": "Eligibility is supported by independent specialist-community documentation, not a newly verified primary Google release announcement. Car-based coverage is documented on both São Tomé and Príncipe; this does not establish coverage of every road or selected city.",
+      "sourceType": "specialist_community"
+    },
+    {
+      "iso2": "SN",
+      "name": "Senegal",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/time-discover-new-places-africa-ghana-senegal-and-uganda-now-street-view/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/time-discover-new-places-africa-ghana-senegal-and-uganda-now-street-view/",
+          "publisher": "Google",
+          "publishedDate": "2017-02-10",
+          "evidence": "Google released Senegal imagery and explicitly describes virtual driving through major roads and Dakar, Saint Louis, Thies and Touba.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google released Senegal imagery and explicitly describes virtual driving through major roads and Dakar, Saint Louis, Thies and Touba.",
+      "notes": ""
+    },
+    {
+      "iso2": "RS",
+      "name": "Serbia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/"
+      ],
+      "evidence": [
+        {
+          "url": "https://akt.gov.al/en/Google-Street-View-returns-to-Albania-with-new-images-across-the-country/",
+          "sourceDate": "2026-07-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Albania’s official tourism agency reports completed road/city imagery refresh, part of the four-country Balkan update covering over 103,000 km.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_tourism_partner"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "SG",
+      "name": "Singapore",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2009/12/more-street-view-updates-see-sea-see.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2009/12/more-street-view-updates-see-sea-see.html",
+          "publishedAt": "2009-12-02",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced Singapore Street View availability, identifying Orchard Road, Clarke Quay, Chinatown, Little India, Jurong and Woodlands.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "SK",
+      "name": "Slovakia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://europe.googleblog.com/2013/02/preserving-and-sharing-rich-slovak.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://europe.googleblog.com/2013/02/preserving-and-sharing-rich-slovak.html",
+          "sourceDate": "2013-02",
+          "checkedAt": "2026-10-08",
+          "summary": "Google describes already-online panoramic imagery of Slovak towns as well as separate nature and spa sites.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "SI",
+      "name": "Slovenia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2014/01/introducing-slovenia-street-view-and.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2014/01/introducing-slovenia-street-view-and.html",
+          "sourceDate": "2014-01-31",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces Slovenian city coverage and Russian roads and cities, with 300,000 kilometers driven in Russia.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "ZA",
+      "name": "South Africa",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/company-news/inside-google/around-the-globe/google-africa/delivering-on-our-1b-commitment-in-africa/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-africa/delivering-on-our-1b-commitment-in-africa/",
+          "publisher": "Google",
+          "publishedDate": "2022-10-05",
+          "evidence": "Google confirms refreshed South African neighbourhood imagery as part of nearly 300,000 additional kilometres across four African countries.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google confirms refreshed South African neighbourhood imagery as part of nearly 300,000 additional kilometres across four African countries.",
+      "notes": ""
+    },
+    {
+      "iso2": "KR",
+      "name": "South Korea",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2012/01/take-tour-of-south-korea-using-street.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2012/01/take-tour-of-south-korea-using-street.html",
+          "publishedAt": "2012-01-24",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced released street-level imagery in Seoul and Busan and explicitly names Namhang Bridge and Dalmaji Road.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "ES",
+      "name": "Spain",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "LK",
+      "name": "Sri Lanka",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://asia.googleblog.com/2016/03/?m=0"
+      ],
+      "evidence": [
+        {
+          "url": "https://asia.googleblog.com/2016/03/?m=0",
+          "publishedAt": "2016-03-22",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced available imagery after driving nearly 50,000 km across Sri Lanka; examples include Beragala-Hali Ela Highway, Colombo-Kandy road and Kandy-Jaffna highway.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Monthly archive contains the full Ayubowan Sri Lanka article; standalone link failed fetching during check."
+    },
+    {
+      "iso2": "SE",
+      "name": "Sweden",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "CH",
+      "name": "Switzerland",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2009/08/"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2009/08/",
+          "sourceDate": "2009-08-18",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly launched imagery in Portugal and Switzerland, explicitly describing a drive around Lake Geneva.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "TW",
+      "name": "Taiwan",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2012/10/making-google-maps-more-comprehensive.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2012/10/making-google-maps-more-comprehensive.html",
+          "publishedAt": "2012-10-11",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced increased Taiwan Street View coverage in an update of over 250,000 miles of roads worldwide; the article separately distinguishes special collections.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Quiz region identifier only, not a sovereignty statement."
+    },
+    {
+      "iso2": "TH",
+      "name": "Thailand",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2012/03/street-view-on-google-maps-comes-to.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2012/03/street-view-on-google-maps-comes-to.html",
+          "publishedAt": "2012-03-23",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced available imagery of greater Bangkok, Chiang Mai and Phuket collected by Street View cars, describing visible traffic and streets.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "iso2": "TN",
+      "name": "Tunisia",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/ar-mena/products/explore-get-answers/2017-tunisia-street-view-maps/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/ar-mena/products/explore-get-answers/2017-tunisia-street-view-maps/",
+          "publisher": "Google",
+          "publishedDate": "2017-03-21",
+          "evidence": "Google announced released street imagery in Tunis and fourteen further cities, plus roads connecting them.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced released street imagery in Tunis and fourteen further cities, plus roads connecting them.",
+      "notes": ""
+    },
+    {
+      "iso2": "TR",
+      "name": "Türkiye",
+      "status": "documentary-supported-road",
+      "confidence": "medium",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://www.teknoblog.com/google-street-view-turkiye/",
+        "https://www.donanimhaber.com/Google-Street-View-Turkiyede-kullanima-sunuldu--79583"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.teknoblog.com/google-street-view-turkiye/",
+          "sourceDate": "2015-10-22",
+          "checkedAt": "2026-10-08",
+          "summary": "Contemporaneous Turkish technology-journalist report says the service became active and describes checking imagery in multiple Turkish places.",
+          "sourceType": "original_technology_news",
+          "verification": "Text retrieved via web search/open."
+        },
+        {
+          "url": "https://www.donanimhaber.com/Google-Street-View-Turkiyede-kullanima-sunuldu--79583",
+          "sourceDate": "2015-10-22",
+          "checkedAt": "2026-10-08",
+          "summary": "Original Turkish technology-news launch reporting says the service covers approximately 70 provinces and hundreds of districts, using Google vehicles/personnel as well as separate contributions.",
+          "sourceType": "original_technology_news",
+          "verification": "Text retrieved via web search/open."
+        }
+      ],
+      "notes": "Official road-release source not located. These are original technology-news reports, not coverage-list copying.  Original technology-news release reporting is accepted here as medium-confidence documentary road evidence; it is not an independently retrieved Google release statement."
+    },
+    {
+      "iso2": "UG",
+      "name": "Uganda",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/intl/en-africa/products/explore-get-answers/street-view-goes-live-in-kampala/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/intl/en-africa/products/explore-get-answers/street-view-goes-live-in-kampala/",
+          "publisher": "Google",
+          "publishedDate": "2016-01-12",
+          "evidence": "Google announced Kampala Street View live, explicitly featuring Parliamentary Avenue and thanking Kampala and Entebbe municipalities.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google announced Kampala Street View live, explicitly featuring Parliamentary Avenue and thanking Kampala and Entebbe municipalities.",
+      "notes": ""
+    },
+    {
+      "iso2": "UA",
+      "name": "Ukraine",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://ukraine.googleblog.com/2015/10/"
+      ],
+      "evidence": [
+        {
+          "url": "https://ukraine.googleblog.com/2015/10/",
+          "sourceDate": "2015-10-08",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces street panorama release covering over 300 Ukrainian settlements after cars drove thousands of kilometers.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "AE",
+      "name": "United Arab Emirates",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2014/12/drive-by-dubai-with-street-view.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2014/12/drive-by-dubai-with-street-view.html",
+          "publishedAt": "2014-12-08",
+          "publisherType": "Google official announcement",
+          "evidence": "Google announced Dubai was available from that day and invites a virtual drive on Sheikh Zayed Road and Financial Road.",
+          "sourceType": "Google official announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "Confirms public-road coverage in Dubai, without implying every emirate/city is covered."
+    },
+    {
+      "iso2": "GB",
+      "name": "United Kingdom",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+        "https://europe.googleblog.com/2013/03/expanding-street-view-in-europe.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://maps.googleblog.com/2011/06/street-view-our-biggest-update-yet.html",
+          "sourceDate": "2011-06-29",
+          "checkedAt": "2026-10-08",
+          "summary": "Google announces newly available imagery in named established Street View countries, including city and regional coverage.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        },
+        {
+          "url": "https://europe.googleblog.com/2013/03/expanding-street-view-in-europe.html",
+          "sourceDate": "2013-03-07",
+          "checkedAt": "2026-10-08",
+          "summary": "Google releases Bulgaria city coverage, nearly 200 additional Russian towns and cities, and thousands of miles of refreshed British imagery.",
+          "verification": "Primary publisher text retrieved via web search/open.",
+          "sourceType": "official_google"
+        }
+      ],
+      "notes": "Documentary evidence confirms publicly released official street coverage; does not certify every road or city."
+    },
+    {
+      "iso2": "US",
+      "name": "United States",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/maps/cheers-street-views-10th-birthday/"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/cheers-street-views-10th-birthday/",
+          "publisher": "Google",
+          "publishedDate": "2017-05-30",
+          "evidence": "Google’s retrospective confirms road collection in U.S. cities and first imagery publication in May 2007.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google’s retrospective confirms road collection in U.S. cities and first imagery publication in May 2007.",
+      "notes": ""
+    },
+    {
+      "iso2": "UY",
+      "name": "Uruguay",
+      "status": "confirmed",
+      "confidence": "documentary-confirmed",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/earth/3-imagery-updates-to-google-earth-and-maps/",
+        "https://montevideo.gub.uy/sites/default/files/documentos/evaluaciondeimpactoambientalysocialpsuvi.pdf",
+        "https://www.emol.com/noticias/Tecnologia/2015/12/02/762065/Google-activa-su-servicio-Street-View-en-Uruguay-con-imagenes-de-75-ciudades.html"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/earth/3-imagery-updates-to-google-earth-and-maps/",
+          "publisher": "Google",
+          "publishedDate": "2024-09-24",
+          "evidence": "Google lists Uruguay among countries with existing Street View imagery receiving an update.",
+          "sourceType": "Google",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://montevideo.gub.uy/sites/default/files/documentos/evaluaciondeimpactoambientalysocialpsuvi.pdf",
+          "publisher": "Intendencia de Montevideo, environmental/social impact assessment",
+          "publishedDate": null,
+          "evidence": "Figure 126 reproduces Google Maps/Street View of residential Calle Pando in Montevideo, showing actual published city-road imagery.",
+          "sourceType": "Intendencia de Montevideo, environmental/social impact assessment",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://www.emol.com/noticias/Tecnologia/2015/12/02/762065/Google-activa-su-servicio-Street-View-en-Uruguay-con-imagenes-de-75-ciudades.html",
+          "publisher": "EFE via Emol, Google launch reporting",
+          "publishedDate": "2015-12-02",
+          "evidence": "Reports Google activated 360-degree street and tourism imagery of 75 Uruguayan cities.",
+          "sourceType": "EFE via Emol, Google launch reporting",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "evidenceSummary": "Google lists Uruguay among countries with existing Street View imagery receiving an update.",
+      "notes": "Primary government usage and directly reported Google launch establish road scope; the 2024 article alone does not establish when the refresh finished."
+    },
+    {
+      "iso2": "VN",
+      "name": "Vietnam",
+      "status": "limited",
+      "confidence": "limited-documentary",
+      "enabledByDefault": true,
+      "roadBasisPending": false,
+      "checkedAt": "2026-10-08",
+      "sourceUrls": [
+        "https://media.vov.vn/sites/default/files/documents/document177/TNVN/N_28-2025.pdf",
+        "https://bvhttdl.gov.vn/bo-vhttdl-day-manh-hop-tac-cung-google-de-quang-ba-du-lich-van-hoa-viet-nam-20240924091654593.htm"
+      ],
+      "evidence": [
+        {
+          "url": "https://media.vov.vn/sites/default/files/documents/document177/TNVN/N_28-2025.pdf",
+          "publishedAt": "2025-07-10",
+          "publisherType": "Voice of Vietnam national broadcaster newspaper, original first-person reporting",
+          "evidence": "Page 14 describes the recent Street View arrival in Vietnam, virtual travel through streets, small alleys and village roads captured by Google lenses, and the author finding their own former neighborhood in the imagery.",
+          "sourceType": "Voice of Vietnam national broadcaster newspaper, original first-person reporting",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "url": "https://bvhttdl.gov.vn/bo-vhttdl-day-manh-hop-tac-cung-google-de-quang-ba-du-lich-van-hoa-viet-nam-20240924091654593.htm",
+          "publishedAt": "2024-09-24",
+          "publisherType": "Government announcement",
+          "evidence": "Vietnam culture/tourism ministry describes Google Street View for remote cultural and art destinations, but this is not a released public-road-network announcement.",
+          "sourceType": "Government announcement",
+          "checkedAt": "2026-10-08"
+        }
+      ],
+      "notes": "National broadcaster first-person reporting establishes published road imagery attributed to Google cameras; exact June 2025 re-release date is not asserted from the primary source. Country coverage remains geographically incomplete."
+    }
+  ],
+  "greenlandWhitelist": [
+    {
+      "id": 3421319,
+      "name": "Nuuk",
+      "localName": "Nuuk"
+    },
+    {
+      "id": 3419842,
+      "name": "Sisimiut",
+      "localName": "Sisimiut"
+    },
+    {
+      "id": 3423146,
+      "name": "Ilulissat",
+      "localName": "Ilulissat"
+    },
+    {
+      "id": 3420846,
+      "name": "Qaqortoq",
+      "localName": "Qaqortoq"
+    },
+    {
+      "id": 3424901,
+      "name": "Aasiaat",
+      "localName": "Aasiaat"
+    },
+    {
+      "id": 3421982,
+      "name": "Maniitsoq",
+      "localName": "Maniitsoq"
+    },
+    {
+      "id": 3424607,
+      "name": "Tasiilaq",
+      "localName": "Tasiilaq"
+    },
+    {
+      "id": 3426193,
+      "name": "Uummannaq",
+      "localName": "Uummannaq"
+    },
+    {
+      "id": 3421719,
+      "name": "Narsaq",
+      "localName": "Narsaq"
+    },
+    {
+      "id": 3421193,
+      "name": "Paamiut",
+      "localName": "Paamiut"
+    },
+    {
+      "id": 3420768,
+      "name": "Qasigiannguit",
+      "localName": "Qasigiannguit"
+    },
+    {
+      "id": 3420635,
+      "name": "Qeqertarsuaq",
+      "localName": "Qeqertarsuaq"
+    },
+    {
+      "id": 3831208,
+      "name": "Qaanaaq",
+      "localName": "Qaanaaq"
+    },
+    {
+      "id": 3422683,
+      "name": "Kangaatsiaq",
+      "localName": "Kangaatsiaq"
+    },
+    {
+      "id": 3419714,
+      "name": "Kangerlussuaq",
+      "localName": "Kangerlussuaq"
+    }
+  ],
+  "limitations": [
+    "Documentary research does not verify that every historical panorama remains available today.",
+    "No Street View imagery or maps were scraped or copied into this package.",
+    "Google road-capture schedules and future filming announcements alone do not establish released coverage.",
+    "Monaco is reviewed but not playable because fewer than four distinct qualifying places are available.",
+    "This manifest documents the existing selected pool; it is not an exhaustive global census of Street View availability."
+  ]
+}

@@ -1,0 +1,5 @@
+(function(){
+'use strict';const NS='http://www.w3.org/2000/svg',index=window.CityDisputeGeometry.create(window.CITY_DISPUTE_DATA),statuses=new Map();
+function path(d,name,onHover){const p=document.createElementNS(NS,'path');p.setAttribute('d',d);p.setAttribute('class','disputed-area');p.setAttribute('fill-rule','evenodd');p.setAttribute('aria-label',index.legend);p.setAttribute('role','img');p.setAttribute('data-disputed-area',name);const title=document.createElementNS(NS,'title');title.textContent=index.legend+' · '+name;p.append(title);p.addEventListener('click',e=>e.stopPropagation());p.addEventListener('pointerenter',()=>onHover?.(index.legend));return p;}
+window.CityDisputes={legend:index.legend,index,status(city){if(!statuses.has(city.id))statuses.set(city.id,index.statusForCity(city));return statuses.get(city.id);},world(group,onHover){for(const f of index.features)group.append(path(f.worldSimplifiedPath||f.worldPath,f.name,onHover));},country(group,projection,geometry,onHover){const features=index.projectedFeatures(projection.toPoint,geometry);for(const f of features)group.append(path(f.path,f.name,onHover));return features.length;}};
+})();

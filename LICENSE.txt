@@ -1,0 +1,51 @@
+Licensing status and scope
+
+This distribution preserves the applicable source terms. No additional application-code license grant is made; existing
+third-party permissions remain unchanged.
+
+APPLICATION CODE
+
+No additional license is granted for the application code in this
+distribution. The supplied original package did not contain a separate
+application-code license grant. Making the source readable or publishing
+a repository does not itself grant general permission to copy, modify or
+redistribute that code. Any rights granted separately by the relevant
+rights holder remain unaffected.
+
+Application implementation files include index.html, style.css, app.js,
+core.js, atlas.js, map-ui.js, dispute-geometry.js and dispute-ui.js.
+The added distribution checks in tests/ are also not assigned a new
+license by this distribution. 
+DATA, GEOMETRY AND FONT
+
+The above statement does not restrict permissions already granted under
+these materials' own terms:
+
+- GeoNames-derived geographic data: Creative Commons Attribution 4.0
+  International. Preserve attribution and indication of modifications.
+- Natural Earth map geometry: public domain.
+- Wikidata structured data: CC0.
+- Noto Serif Tibetan font: SIL Open Font License 1.1; preserve its bundled
+  copyright and license notices.
+
+Data bundles data.js, regions.js, world-map.js and disputes.js contain
+source-derived data and geometry, not a blanket application-code license.
+Data-derived material also appears in audit/. The file named
+  dispute-geometry.js
+is application geometry-handling code; it is distinct from the Natural
+Earth coordinates bundled in the data files.
+
+See THIRD_PARTY_NOTICES.md for source links, adaptation descriptions and
+licensing boundaries. The complete bundled font notices and OFL are in
+fonts/NOTO-LICENSE.txt.
+
+DOCUMENTARY REFERENCES
+
+Coverage records and review notes cite third-party sources as evidence.
+Those citations do not grant a license to the linked websites' prose,
+imagery, branding or other assets. Service terms governing the creation
+or use of generated output are not presented here as a downstream
+application-code license.
+
+This file records the distribution's licensing status; it is not legal
+clearance or a warranty concerning all possible third-party rights.

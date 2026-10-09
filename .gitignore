@@ -1,0 +1,16 @@
+# Local/editor files and unpublished service configuration
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.openai/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.zip
+playwright-report/
+test-results/
